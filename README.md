@@ -6,6 +6,7 @@
     <code> hii!! im diogotv, welcome to my github profile :D </code> <br/>
     <code> im just someone who likes coding </code>
     <div align="center">
+        <br/>
         <img src="https://github.com/DiogoTVV/DiogoTVV/blob/main/res/hiiii.gif?raw=true" />
     </div>
 </h2>
