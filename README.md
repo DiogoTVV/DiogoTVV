@@ -1,6 +1,10 @@
-# 📺⭐ DiogoTVV ⭐📺
+<h1 align="center">
+    📺⭐ DiogoTVV ⭐📺
+</h1>
 
-``im diogotv, just someone who likes coding``
+<h2 align="center">
+    <code> im diogotv, just someone who likes coding </code>
+</h2>
 
 <h2 align="center">
     hii!!, welcome to my github profile :D
