@@ -3,11 +3,8 @@
 </h1>
 
 <h2 align="center">
-    <code> im diogotv, just someone who likes coding </code>
-</h2>
-
-<h2 align="center">
-    <code> hii!!, welcome to my github profile :D </code>
+    <code> hii!! im diogotv, welcome to my github profile :D </code> <br/>
+    <code> im just someone who likes coding </code>
 </h2>
 
 <!--![Diogo Waving](https://github.com/DiogoTVV/DiogoTVV/blob/main/res/hiiii.gif?raw=true)-->
