@@ -2,13 +2,15 @@
 
 ``im diogotv, just someone who likes coding``
 
-## hii!!, welcome to my github profile :D
+<h2 align="center">
+    hii!!, welcome to my github profile :D
+</h2>
 
 <!--![Diogo Waving](https://github.com/DiogoTVV/DiogoTVV/blob/main/res/hiiii.gif?raw=true)-->
 
 <div align="center">
 <img src="https://github.com/DiogoTVV/DiogoTVV/blob/main/res/hiiii.gif?raw=true" />
-<p align="left">
+<p align="center">
     <a href="https://github.com/DiogoTVV?tab=followers">
        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DiogoTVV?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://github.com/DiogoTVV?tab=repositories&sort=stargazers">
