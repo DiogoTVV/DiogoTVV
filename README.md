@@ -1,8 +1,8 @@
 # 📺⭐ DiogoTVV ⭐📺
 
-``hii!!, welcome to my github profile :]``
+``im diogotv, just someone who likes coding``
 
-im diogotv, just someone who likes coding
+## hii!!, welcome to my github profile :D
 
 ![Diogo Waving](https://github.com/DiogoTVV/DiogoTVV/blob/main/res/hiiii.gif?raw=true)
 
