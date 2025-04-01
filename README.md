@@ -19,9 +19,9 @@
 </p>
 </div>
 
-<h3 align="center">
-    🔧 Languages and Tools 🔧
-</h3>
+<h2 align="center">
+    <code> 🔧 Languages and Tools 🔧 </code>
+</h2>
 
 <div align="center">
 <img align="center" alt="HAXE" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-plain.svg" />
