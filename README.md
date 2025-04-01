@@ -4,10 +4,8 @@
 
 ## hii!!, welcome to my github profile :D
 
-<div>
-<p align="center">
+<div align="center">
 ![Diogo Waving](https://github.com/DiogoTVV/DiogoTVV/blob/main/res/hiiii.gif?raw=true)
-</p>
 <p align="left">
     <a href="https://github.com/DiogoTVV?tab=followers">
        <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DiogoTVV?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
