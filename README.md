@@ -4,7 +4,7 @@
 
 im diogotv, just someone who likes coding
 
-![Diogo Waving](https://github.com/DiogoTVV/DiogoTVV/blob/main/res/hiii.gif?raw=true)
+![Diogo Waving](https://github.com/DiogoTVV/DiogoTVV/blob/main/res/hiiii.gif?raw=true)
 
 <p align="left">
     <a href="https://github.com/DiogoTVV?tab=followers">
